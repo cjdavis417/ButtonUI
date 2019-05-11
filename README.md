@@ -1,5 +1,5 @@
-Buttons and states
+# Buttons
+## States
+## Ripple effect
 
-Ripple effect
-
-Code pen: https://codepen.io/cjdavis417/pen/dEMxGz
+### [Code pen](https://codepen.io/cjdavis417/pen/dEMxGz)
