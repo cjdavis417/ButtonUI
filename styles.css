@@ -4,6 +4,11 @@
     --tertiary-color: #da674d;
 }
 
+button {
+    position: relative;
+    overflow: hidden;
+}
+
 .btn {
     border-radius: 2px;
     border: 1px solid;
@@ -92,3 +97,9 @@ button .circle {
     animation: scale 0.5s ease-out;
 }
 
+@keyframes scale {
+    to {
+        transform: translate(-50%, -50%) scale(3);
+        opacity: 0;
+    }
+}
